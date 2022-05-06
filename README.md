@@ -14,6 +14,6 @@ The reasoning between the 2 applications is the classifier can be used by small 
 
 ## Files
 
-1. Plant_Disease_Classification_and_Detection.ipynb (Report Notebook) : Notebook report detailing the project goal, web applications and development.
-2. VGG19__Disease_Classifier.ipynb (Disease Classification Notebook) : Notebook detailing development of the classification model and web application.
-3. YOLOV5_Disease_Detection.ipynb (Disease Detection Notebook) : Notebook detailing development of the detection model and web application.
+1. [Plant_Disease_Classification_and_Detection.ipynb (Report Notebook)](https://github.com/chrisliti/DSI-Module-4/blob/main/Plant_Disease_Classification_and_Detection.ipynb) : Notebook report detailing the project goal, web applications and development.
+2. [VGG19__Disease_Classifier.ipynb (Disease Classification Notebook)](https://github.com/chrisliti/DSI-Module-4/blob/main/VGG19__Disease_Classifier.ipynb) : Notebook detailing development of the classification model and web application.
+3. [YOLOV5_Disease_Detection.ipynb (Disease Detection Notebook)](https://github.com/chrisliti/DSI-Module-4/blob/main/YOLOV5_Disease_Detection.ipynb) : Notebook detailing development of the detection model and web application.
