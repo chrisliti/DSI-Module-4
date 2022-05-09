@@ -1,6 +1,6 @@
 # Plant Disease Classification and Detection
 
-![alt text](https://github.com/chrisliti/DSI-Module-4/blob/main/collage2.jpg?raw=true)
+![alt text](https://github.com/chrisliti/DSI-Module-4/blob/main/collage3.jpg?raw=true)
 
 ## Overview
 
