@@ -20,5 +20,7 @@ The reasoning between the 2 applications is the classifier can be used by small 
 4. [test-files](https://github.com/chrisliti/DSI-Module-4/tree/main/test-files): Contains test images and videos for the web applications.
 
 ## Supporting Reporsitories
+This is the repo for the notebooks and test images. The 2 web applications have their specific repos with the links below.
+
 1. [Disease Classification Web Application](https://github.com/chrisliti/DSI-Capstone-Classifier)
 2. [Disease Detection Web Application](https://github.com/chrisliti/DSI_Capstone_Disease_Detection)
