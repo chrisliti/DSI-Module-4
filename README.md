@@ -1,5 +1,7 @@
 # Plant Disease Classification and Detection
 
+![alt text](https://github.com/chrisliti/DSI-Module-4/blob/main/collage2.jpg?raw=true)
+
 ## Overview
 
 This project is the capstone project for my Data Science Intensive Africa 2022 course.
