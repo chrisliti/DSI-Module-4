@@ -20,6 +20,7 @@ The reasoning between the 2 applications is the classifier can be used by small 
 2. [VGG19__Disease_Classifier.ipynb (Disease Classification Notebook)](https://github.com/chrisliti/DSI-Module-4/blob/main/VGG19__Disease_Classifier.ipynb) : Notebook detailing development of the classification model and web application.
 3. [YOLOV5_Disease_Detection.ipynb (Disease Detection Notebook)](https://github.com/chrisliti/DSI-Module-4/blob/main/YOLOV5_Disease_Detection.ipynb) : Notebook detailing development of the detection model and web application.
 4. [test-files](https://github.com/chrisliti/DSI-Module-4/tree/main/test-files): Contains test images and videos for the web applications.
+5. Collage 2 & 3: Aesthetic images for the report
 
 ## Supporting Reporsitories
 This repo is for notebooks and test images. The 2 web applications have their specific repos with the links below.
